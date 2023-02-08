@@ -1,0 +1,9 @@
+{
+	"name": "azure-data-factory-tests",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "989b07ad-6d1a-45f1-b5ae-b59555244482",
+		"tenantId": "6f180921-92e6-4e05-a1ea-12a8d049d6da"
+	}
+}
